@@ -21,5 +21,5 @@ We can confirm that based on the data provided, most stocks decreased between 20
 ###### Results for 2018 Stocks
 ![alt text](Resources/2018.Results.png)
 
-
 ## Summary
+By refactoring the code, it became apparent that the code was easier to read. The disadvantage is that it takes time to go back and edit code. This can be the case when refactoring any code. After refactoring the code, the workbook became more efficient and much quicker to run.
